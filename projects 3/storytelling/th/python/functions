@@ -1,0 +1,5 @@
+def greet(name):
+    print("hey there",name)
+
+greeting=greet("jayden")
+print(greeting)

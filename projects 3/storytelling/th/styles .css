@@ -1,0 +1,17 @@
+p{ color: red;}
+<html>
+  <head>
+    <title>Hello World</title>
+    <style type="text/css">
+      p{ color: red;}
+    </style>
+  </head>
+  <body>
+    <p>This paragraph will be red.</p>
+  </body>
+</html>
+selector{ property: value;}
+margin : 10px;
+# header
+color red
+text-alighn: center
